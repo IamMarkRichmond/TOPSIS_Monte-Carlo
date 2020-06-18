@@ -1,4 +1,9 @@
 Performs Monte-Carlo of TOPSIS MCDA
+Written for the journal article: 
+"Multi-Criteria Decision Analysis for Benchmarking Human-Free Lifting Solutions in
+the Offshore Wind Energy Environment", Mark Richmond,* Toby Balaam, Paul Causon,
+Debora Cevasco, Mareike Leimeister, Athanasios Kolios and Feargal Brennan, energies Published: 7 May 2018
+
 
 *script*
 
